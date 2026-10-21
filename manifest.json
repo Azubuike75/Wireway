@@ -1,0 +1,14 @@
+{
+  "name": "WireWay",
+  "short_name": "WireWay",
+  "description": "House wiring guide for Nigeria: walkthrough, circuit planner, cable and breaker calculator, and reference tables.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#ECEFEE",
+  "theme_color": "#F2B705",
+  "icons": [
+    {"src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable"},
+    {"src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable"}
+  ]
+}
