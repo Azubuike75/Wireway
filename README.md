@@ -2,7 +2,7 @@
 
 **House wiring guide for Nigeria.** A free web app that walks you through wiring a house from chasing the walls to testing the finished job, with a circuit planner, a cable and breaker calculator, and illustrated install guides.
 
-**Live app:** https://azubuike75.github.io/Wireway-/
+**Live app:** https://azubuike75.github.io/Wireway/
 
 Produced by **Azubuike Christian Obiora**. A **Mythbborrn Press** production.
 
